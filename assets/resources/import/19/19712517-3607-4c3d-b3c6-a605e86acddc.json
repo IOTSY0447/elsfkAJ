@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"gameFadein","_duration":1,"curveData":{"props":{"opacity":[{"frame":0,"value":0},{"frame":1,"value":255}]},"paths":{"ground/New Sprite(Splash)/New Sprite(Splash)":{"props":{"position":[]}},"Prompt/words":{"props":{"position":[]}}}}}

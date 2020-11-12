@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"Light_effect.atlas","text":"\nLight_effect.png\nsize: 512,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nGUANGDIAN\n  rotate: false\n  xy: 2, 2\n  size: 256, 256\n  orig: 256, 256\n  offset: 0, 0\n  index: -1\n"}

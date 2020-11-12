@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"alertIn","_duration":0.4,"curveData":{"props":{"scaleX":[{"frame":0,"value":0,"curve":[0.18,0.89,0.31,1.21]},{"frame":0.4,"value":1}],"scaleY":[{"frame":0,"value":0,"curve":[0.18,0.89,0.31,1.21]},{"frame":0.4,"value":1}],"opacity":[{"frame":0,"value":0},{"frame":0.13333333333333333,"value":255}]}}}
